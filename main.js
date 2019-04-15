@@ -9,6 +9,7 @@ let appData = {
     },
   optionalExpenses : {},
   income : [],
+  savings : false
 };
 
 const month = 30;
